@@ -11,7 +11,7 @@ Conceitos
 • Estruturação de projeto Spring Rest
 • Entidades e ORM
 • Database seeding
-• Padrão cama
+• Padrão camada
 
 # Tecnologias utilizadas
 ## Back end
